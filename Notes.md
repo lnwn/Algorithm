@@ -33,3 +33,5 @@ class SecondClass{
 7. git branch -m master | 将当前新分支重命名为master
 8. git push origin master --force | 将更改推送至远程仓库
 
+**对于团队合作来说该操作需谨慎**
+
