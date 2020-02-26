@@ -25,7 +25,12 @@ Updating... (ง •̀_•́)ง
        2. advanced merge sort
     2. Quick Sort
        1. quick sort
-
+       2. identical keys
+       3. nearly ordered array
+    3. Quick Sort 3 Ways
+       1. quick sort 3 ways
+    4. Count inversion number
+    
 ```
 
 ### Support
