@@ -19,6 +19,12 @@ Updating... (ง •̀_•́)ง
     2. Insertion Sort
        1. insertion sort
        2. advanced version
+#2. Advanced Sorting
+    1. Merge Sort
+       1. merge sort
+       2. advanced merge sort
+    2. Quick Sort
+       1. quick sort
 
 ```
 
