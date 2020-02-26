@@ -15,7 +15,9 @@ using namespace std;
 template<typename T>
 void __merge(T arr[], int l, int mid, int r) {
 
-	T aux[r - l + 1];// 临时辅助空间，大小与待排序数组空间一样大（闭区间）
+	// 临时辅助空间，大小与待排序数组空间一样大（闭区间）
+	T *aux=new T [r - l + 1];// !注意这里的定义方式！
+
 	// 复制辅助数组
 	for (int i = l; i <= r; i++)
 		aux[i - l] = arr[i];// 两者存在l的偏移量
