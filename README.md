@@ -30,6 +30,11 @@ Updating... (ง •̀_•́)ง
     3. Quick Sort 3 Ways
     4. Count inversion number
     5. Select Nth Largest Number
+#3. Heap
+    1. Max Heap Basic Class
+    2. Shift Up
+    3. Shift Down
+    4. Heapify
     
 ```
 
