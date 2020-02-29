@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-This is used to record the code and notes in my study.
+This repository is used to record the code about data structure and algorithm.
 
 I love this emoticon. (ง •̀_•́)ง
 
@@ -35,7 +35,7 @@ Updating... (ง •̀_•́)ง
     2. Shift Up
     3. Shift Down
     4. Heapify
-    
+    5. Heap Sort
 ```
 
 ### Support
