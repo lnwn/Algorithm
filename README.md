@@ -36,6 +36,7 @@ Updating... (ง •̀_•́)ง
     3. Shift Down
     4. Heapify
     5. Heap Sort
+    6. Index Heap
 ```
 
 ### Support
