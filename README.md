@@ -37,6 +37,9 @@ Updating... (ง •̀_•́)ง
     4. Heapify
     5. Heap Sort
     6. Index Heap
+#4. Binary Search Tree
+    1. Binary Search
+    2. Insert
 ```
 
 ### Support
