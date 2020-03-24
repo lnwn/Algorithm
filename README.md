@@ -2,7 +2,7 @@
 
 This repository is used to record the code about data structure and algorithm.
 
-I love this emoticon. (ง •̀_•́)ง
+..
 
 ### Contents for code set
 
@@ -40,6 +40,9 @@ Updating... (ง •̀_•́)ง
 #4. Binary Search Tree
     1. Binary Search
     2. Insert
+    3. Search
+    4. Order
+    5. Level Order
 ```
 
 ### Support
