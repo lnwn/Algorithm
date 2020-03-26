@@ -50,7 +50,7 @@ public:
 	bool contain(Key key) {
 		return contain(root, key);
 	}
-
+	// serach 的返回值类型可以有多种，但 value* 更优
 	// 直接返回 node 没有将定义的数据结构进行隐藏
 	// 返回 value 则前提是这个 value 已存在
 	// 返回 value* ，node空时则返回空，否则返回 value
@@ -84,7 +84,8 @@ public:
 			Node *node = q.front();// 取队首元素
 			q.pop();// 出队
 
-			cout << node->key << endl;
+			cout << node->key << endl;// 这里可对当前节点执行其他操作
+			
 			// 将其子节点入队
 			if (node->left)
 				q.push(node->left);
