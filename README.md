@@ -43,6 +43,7 @@ Updating... (ง •̀_•́)ง
     3. Search
     4. Order
     5. Level Order
+    6. Delete
 ```
 
 ### Support
